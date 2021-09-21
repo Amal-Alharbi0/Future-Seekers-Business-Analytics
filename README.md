@@ -4,7 +4,11 @@
 
 
 
+
 This Udacity program aims to develop foundational data skills. Analyze data using Excel, and build interactive dashboards and visualizations in Tableau.
+
+
+
 
 
 
@@ -97,7 +101,6 @@ Learn how to select the most appropriate data visualization for an analysis. Lea
  
  
  
- .......................
  
 
 
