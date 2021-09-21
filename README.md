@@ -13,10 +13,14 @@ This Udacity program aims to develop foundational data skills. Analyze data usin
 
 
 
+
+
+
 ## Welcome to the Nanodegree program 
 
 
 Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions and find your own insights from a data dashboard.
+
 
 
 
@@ -28,12 +32,14 @@ In this project, you’ll explore an interactive data dashboard to uncover insig
 
 .
 .
+.
 
 
 ## Introduction to Data
 
 
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes. 
+
 
 
 
@@ -45,6 +51,8 @@ In this project, you'll use statistics and spreadsheet programs like Excel to an
 
 .
 .
+.
+
 
 
 ## Problem Solving with Analytics
@@ -53,12 +61,15 @@ In this project, you'll use statistics and spreadsheet programs like Excel to an
 learn strategies for solving problems, non-predictive data analysis and select the most appropriate analytical methodology based on the context of the business problem. Build, validate, and apply linear regression models to solve a business problem.
 
 
+
+
 ### Project three ; predicting diamond prices
 
 
 In this project, you will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation. 
 
 
+.
 .
 .
 
@@ -70,10 +81,17 @@ Learn how to select the most appropriate data visualization for an analysis. Lea
 
 
 
+
  ### Project four ; Build Data Dashboards
  
  
  In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data.
+ 
+ 
+ 
+ 
+ 
+ .
 
 
 
