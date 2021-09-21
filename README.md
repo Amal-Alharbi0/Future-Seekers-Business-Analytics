@@ -1,6 +1,6 @@
 
 
-# (Future Seekers - Business Analytics){https://confirm.udacity.com/CD4KWDTQ}
+# Future Seekers - Business Analytics
 
 
 
