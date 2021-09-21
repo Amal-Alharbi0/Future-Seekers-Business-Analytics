@@ -35,7 +35,6 @@ In this project, you’ll explore an interactive data dashboard to uncover insig
 
 ###### Supporting Materials
 
-          Madrid in Detail
 
 .
 .
