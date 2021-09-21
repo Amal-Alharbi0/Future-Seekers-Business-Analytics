@@ -33,6 +33,8 @@ In this project, you’ll explore an interactive data dashboard to uncover insig
 .
 .
 .
+.
+.
 
 
 ## Introduction to Data
@@ -52,7 +54,8 @@ In this project, you'll use statistics and spreadsheet programs like Excel to an
 .
 .
 .
-
+.
+.
 
 
 ## Problem Solving with Analytics
@@ -69,6 +72,8 @@ learn strategies for solving problems, non-predictive data analysis and select t
 In this project, you will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation. 
 
 
+.
+.
 .
 .
 .
@@ -91,7 +96,9 @@ Learn how to select the most appropriate data visualization for an analysis. Lea
  
  
  
- .
+ 
+ .......................
+ 
 
 
 
