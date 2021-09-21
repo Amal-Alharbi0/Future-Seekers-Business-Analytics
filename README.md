@@ -33,6 +33,9 @@ Meet your instructors and learn how to optimize your classroom. Learn how people
 
 In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
+###### Supporting Materials
+
+          Madrid in Detail
 
 .
 .
